@@ -1,2 +1,3 @@
-# smart grocerey store 
+# rushi
+
 i am a coder 
